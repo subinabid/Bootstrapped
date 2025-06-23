@@ -15,4 +15,4 @@ So, you decided to have your own company. You have to take a few important decis
 
 Answering these questions can be overwhelming and you need someone with experience to guide you. One option is to ask others who has done this before. Alternately, you could find a good Chartered Accountant to answer these questions for you. Finding a CA for your company is very much like a marriage - you are going to be together for a very long time. So choose wisely. 
 
-Pick a CA who has worked with starups before. They should also have tieups with Company Secretaries. There is a log of going back and forth between CA & CS - This could be during compnay registrastion, share transfers, annual filings etc. If a single firm is hanlding both, you can focus more  on things that matters - building your company
+Pick a CA who has worked with startups before. They should also have tie-ups with Company Secretaries. There is a lot of going back and forth between CA & CS - This could be during company registration, share transfers, annual filings etc. If a single firm is handling both, you can focus more on things that matters - building your company
