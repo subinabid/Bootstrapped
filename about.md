@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-I am a Mechanical Engineer with 16 years of work experience at Mahindra & Mahindra, Mu-Sigma & NTPC. I am running my Energy Intelligence startup - [Zerowatt](https://zerowatt.energy/) - for the last few months with my friends
+My name is Subin Abid. I graduated with a degree in  Mechanical Engineering in 2009. Since then, I worked at Mahindra & Mahindra, Mu-Sigma & NTPC. I am the cofounder of an Energy Intelligence startup - [Zerowatt](https://zerowatt.energy/) which was founded in 2020 and is based out of Alleppey, Kerala and incubated at IIT Madras Research Park.
 
 I am currently pursing MBA from IIMK.
 

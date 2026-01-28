@@ -2,12 +2,12 @@
 layout: home
 ---
 
-<h1>The Honest Story Of Running A Bootstrapped startup</h1>
+<h1>The Honest Story Of Running A Bootstrapped Startup</h1>
 
 <img src="./assets/image/chaos.jpg" alt="Chaos" >
 
 
-I run a startup - [Zerowatt](https://zerowatt.energy/) - With my friends and honestly, its a hard task. In the journey, I learnt a few things and I thought I should write it down. For 2 reasons - Clarity of thought and for others to learn.
+I ran a startup - [Zerowatt](https://zerowatt.energy/) - with my friends and honestly, its a hard task. In the journey, I learnt a few things and I thought I should write it down. For 2 reasons - Clarity of thought and for others to learn.
 
 
 Why pay money to a startup gurus when you can get the same info from your fellow startup founders for free?
