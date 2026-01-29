@@ -5,7 +5,7 @@ categories: legal
 tags: statutory legal IIM Kozhikode MBA
 ---
 
-> This blog is an addendum of the study report on "Responsibilities of Board of Directors and Promoters towards Investors and Stakeholders" submitted to IIM Kozhikode as part of the curriculum for the course "Leadership and Corporate accountability" during the MBA program.
+> This blog is an addendum of the study report on "Responsibilities of Board of Directors and Promoters towards Investors and Stakeholders" submitted to IIM Kozhikode by Nilotpal, Raghu, Ritam, Sanjay, Shailesh, Shubam, Subin, Tushar, and Yash as part of the "Leadership and Corporate accountability" course included in the EPGP program.
 
 - A startup raised 5 crores in their first funding round from a VC firm. The founders were serving as the directors. While raising the investment, it was stated that the money will be used for product development and marketing. However, the founders diverted a significant portion of the funds towards personal expenses and even buying a car for the company, which the founders used for personal purposes.
 
@@ -19,7 +19,7 @@ What is common in all these scenarios? Does these feel wrong to you? Yes, they d
 
 ## What is Fiduciary Duty?
 
-Fiduciary relation arises when a party is entrusted with property, information, or power to make decisions that involve discretionary judgement for the benefit of someone other than themselves. A trustee and beneficiary, doctor and patient, lawyer and client – all these are fiduciary relationships. In a corporate environment where investors and shareholders entrust their money with a company to business expecting wealth maximization, they are entering a fiduciary relationship. The responsibilities (duties) of the promoters, directors, and executives towards the investors and other stakeholders can be called as their Fiduciary responsibilities which are as follows:
+Fiduciary relation arises when a party is entrusted with property, information, or power to make decisions that involve discretionary judgement for the benefit of someone other than themselves. A trustee and beneficiary, doctor and patient, lawyer and client – all these are fiduciary relationships. In a corporate environment where investors and shareholders entrust their money with a company to do business expecting wealth maximization, they are entering a fiduciary relationship. The responsibilities (duties) of the promoters, directors, and executives towards the investors and other stakeholders can be called as their Fiduciary responsibilities which are as follows:
 -	Candor and disclosure
 -	Diligence and care
 -	Loyalty and self-restraint
@@ -73,19 +73,23 @@ Involvement, risk appetite and expected returns for shareholders and creditors (
 
 All these conflicts happen due to information asymmetry. Information asymmetry is the situation in which parties on one side has additional information which they can use to their advantage. 
 
+## The decision-making process
+Every  organisation takes strategic, tactical, and operational decisions on a regular basis. Some of them are taken at the board level (*budget, hiring, policy etc*) while some decisions are taken by the collective wisdom of the shareholders (*changes in AoA or MoA of the company, change of business location, share buy back etc*). In a board level decision, the decision is taken with a simple majority while each director gets one vote. In a shareholder meeting, the decision is taken based on the type of resolution – ordinary or special. An ordinary resolution requires a simple majority (more than 50%) while a special resolution requires a 75% majority to pass where people vote based on the number of shares they hold.
+
+For the shareholders to vote in an informed manner, it is the duty of the board of directors and promoters to provide all relevant information related to the decision to be taken.
 
 ## What protections are available to investors and stakeholders?
 To protect the interests of investors and stakeholders, various legal and regulatory frameworks are in place. Some of these include:
 
 - The Companies Act, 2013
 - SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018
-- SEBI (LODR) Regulations, 2015
-- SEBI (PIT) Regulations
-- Insolvency and Bankruptcy Code (IBC), 2016
+- SEBI (Listing Obligations and Disclosure Requirements) Regulations, 2015
+- SEBI (Prohibition of Insider Trading) Regulations
+- Insolvency and Bankruptcy Code, 2016
 
 The companies act, 2013 has specific provisions related to the duties of directors (Section 166) and penalties for breach of fiduciary duties. SEBI regulations also mandate disclosure requirements and corporate governance norms to protect investors. To list a few, whistleblower policies, independent directors, audit committees, etc. are some of the measures to ensure accountability.
 
 > For example, a promoter cannot exit the company right after raising funds from investors without fulfilling certain lock-in periods as per SEBI regulations - otherwise known as 'skin in the game'.
 
 ## Conclusion
-Fiduciary duties are crucial for maintaining trust and integrity in the corporate world. Board of directors and promoters must uphold these duties to ensure the long-term success of the company and protect the interests of investors and stakeholders. Investors and stakeholders should also be aware of their rights and the protections available to them to hold the board accountable.
+Fiduciary duties are crucial for maintaining trust and integrity in the corporate world. Board of directors and promoters must uphold these duties to ensure the long-term success of the company and protect the interests of investors and stakeholders. Investors and stakeholders should also be aware of their rights and the protections available to them to hold the board accountable. Failing to do so can lead to legal consequences and damage to reputation.
